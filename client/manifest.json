@@ -1,0 +1,10 @@
+{
+  "name": "Push notification",
+  "short_name": "Push notification",
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "https://vast-fjord-59802.herokuapp.com/"
+}
