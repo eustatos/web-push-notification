@@ -1,6 +1,6 @@
 {
   "name": "Push notification",
-  "short_name": "Push notification",
+  "short_name": "Web push",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
   "display": "standalone",
